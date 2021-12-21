@@ -7,7 +7,7 @@
 #include <numeric>
 
 using namespace std;
-
+ 
 int main()
 {
     int n = 28123; //upperbound 28123
